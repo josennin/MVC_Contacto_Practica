@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|c:\\users\\usuario\\source\\repos\\appweb_mvc\\appweb_mvc\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|solutionrelative:appweb_mvc\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|c:\\users\\usuario\\source\\repos\\appweb_mvc\\appweb_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|solutionrelative:appweb_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|c:\\users\\usuario\\source\\repos\\appweb_mvc\\appweb_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|solutionrelative:appweb_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|c:\\users\\usuario\\source\\repos\\appweb_mvc\\appweb_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C0FC4F0-1BF3-4270-A19C-A63454042F2A}|AppWeb_MVC\\AppWeb_MVC.csproj|solutionrelative:appweb_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppWeb_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppWeb_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T00:10:07.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Views\\Home\\contacto.cshtml",
+              "RelativeDocumentMoniker": "AppWeb_MVC\\Views\\Home\\contacto.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Views\\Home\\contacto.cshtml",
+              "RelativeToolTip": "AppWeb_MVC\\Views\\Home\\contacto.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T00:08:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppWeb_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppWeb_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T00:04:15.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWeb_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AppWeb_MVC\\AppWeb_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppWeb_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T00:01:51.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
